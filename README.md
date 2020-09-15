@@ -2,6 +2,7 @@
 
 Mais detalhes em [MooCommerce - Um plugin que integra WooCommerce com o Moodle](https://www.eduardokraus.com/moocommerce)
 
+> Este plugin é do WordPress, Instale ele no Wordpress. Se você instalar no Moodle terá erro...
 
 No Moodle, em configurações do Kopere MooCommerce, terás dois dados:  
 
